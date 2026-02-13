@@ -1,0 +1,10 @@
+Start() called at 0
+Start() complete
+Update frame=1 t=0.000 dt=0.0200 enemies=0
+  SPAWN enemy #1
+  SHOOT bullet towards enemy
+Update frame=2 t=0.020 dt=0.0200 enemies=1
+Update frame=3 t=0.040 dt=0.0200 enemies=1
+Update frame=4 t=0.085 dt=0.0449 enemies=1
+Update frame=5 t=0.090 dt=0.0047 enemies=1
+Update frame=30 t=0.260 dt=0.0024 enemies=1
